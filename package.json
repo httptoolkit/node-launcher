@@ -1,0 +1,23 @@
+{
+  "name": "httptoolkit",
+  "version": "0.1.0",
+  "description": "Standalone runner for HTTP Toolkit",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTTP",
+    "Toolkit",
+    "http",
+    "debug"
+  ],
+  "author": "Tim Perry <tim@httptoolkit.tech>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "httptoolkit-server": "latest"
+  },
+  "dependencies": {
+    "opn": "^5.4.0"
+  }
+}
