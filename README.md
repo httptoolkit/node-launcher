@@ -6,6 +6,8 @@ HTTP Toolkit is normally delivered as an Electron application, but the Electron 
 
 This should typically work just as well as the Electron version, with less overhead, and a quicker & easier install setup if you have node installed already, but this is experimental, so do check the caveats below for some warnings.
 
+Looking to file bugs, request features or send feedback? File an issue or vote on existing ones at [github.com/httptoolkit/feedback](https://github.com/httptoolkit/feedback).
+
 ## Getting Started
 
 Assuming you have a recent Node.js & npm installed, you just need to run:
